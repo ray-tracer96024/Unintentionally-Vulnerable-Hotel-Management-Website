@@ -1,1 +1,5 @@
-"# Hotel Management Website" 
+# Hotel Management Website
+
+---
+
+Done in Laravel
