@@ -1,0 +1,88 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	padding: 90px;
+	background-color: white;  
+}
+
+input[type=text] {
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+input[type=text]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+input[type=date] {
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+input[type=date]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+input[type=number] {
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+input[type=number]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+input[type=datetime] {
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+input[type=datetime]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+select, option {
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+.submit-btn {
+	background-color: #ff0000;
+	color: white;
+	padding: 16px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+}
+
+.submit-btn:hover {
+	opacity: 1;
+}

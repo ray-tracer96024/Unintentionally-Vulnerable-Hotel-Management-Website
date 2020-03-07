@@ -1,0 +1,12 @@
+.bg {
+	background-image: url("hotel_bg.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+hr.hrstyle {
+	border: 1px solid red;
+}

@@ -1,0 +1,35 @@
+#information {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+
+#information td, #information th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#information tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#information tr:hover {
+	background-color: #ddd;
+}
+
+#information th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: red;
+	color: white;
+}
+
+#click_here {
+	padding: 5px;
+	text-align: center;
+	background-color: red;
+	color: white;
+	border: solid 1px red;
+}
